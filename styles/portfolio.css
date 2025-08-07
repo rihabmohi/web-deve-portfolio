@@ -116,15 +116,11 @@ nav li a{
     margin: 0px auto;
 }
 /* what I do */
-.what-I-do{
-    
-}
+
 .icon-items{
     display: flex;
     justify-content: space-between;
     gap: 24px;
-    
-    
 }
 .tile{
     font-size: 20px;
